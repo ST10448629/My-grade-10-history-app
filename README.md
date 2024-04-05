@@ -69,11 +69,55 @@ By prioritizing accessibility, usability, and aesthetic appeal in UI design, my 
    - With version control and automated testing in place, I can maintain code stability, minimize technical debt, and deliver a high-quality app that meets users' expectations.
 
 
-
-
-
 In conclusion: I've concluded that including information about famous historians contributions to your country's history and how they died can provide students with a deeper understanding of their impact and context of their work. Make sure to provide clear and concise summaries of each historian's life and work , along with the significance of their contributions.
 
-Refrencing:
+
+If You Are Struggling:
+Click on the link below for YouTube Video.
+
+
+Refrences:
+Github Documentation.
+(2022) tools4dev.Available at: https://tools4dev.org/resources/how-to-design-a-new-program/(Accessed:2024/04/05)
+Miao,F., 2023,April.Website UI Design Interactivity and Interface Visual Design and based on improved DFA algorithm. In 2023 internationa conference on distributed cumputing and electrical circuits and electronics(ICDCECE) (pp.1-5). IEEE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
